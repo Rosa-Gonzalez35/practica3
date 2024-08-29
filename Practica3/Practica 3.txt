@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina2</title>
+</head>
+<body background="fondo3.jpg" >
+    <font face="century Gothic" size="3" color="black">
+        <h1>DEFENSA PERSONAL</h1>
+    </font>
+</body>
+
+<table width="100%" style="color:  black;">
+    <tr>
+        <td>Las mejores Artes Marciales</td>
+        <td>
+            <ul>
+                <li>Karate</li>
+                <li>Taekwondo</li>
+                <li>Judo</li>
+                <td>
+                    <img scr="imagen4.1.jpg"
+                    width="400" height="200"
+                    alt="Alt Text" />
+                </td>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Artes Marcial y su Relacion con los Samurais</td>
+        <td>
+            <ol>
+                <li>Iaido</li>
+                <li>Kendo</li>
+                <td>
+                    <img scr="imagen5.1.jpg"
+                    width="400" height="200"
+                    alt="Alt Text" />
+                </td>
+            </ol>
+        </td>
+    </tr>
+
+    <tr>
+        <td>AIKIDO en la defensa personal</td>
+        <TD>
+            <dl>
+                <dt>AI</dt>
+                <dd>Union o la Armonia</dd>
+                <dt>KI</dt>
+                <DD>Energia o Espiritu</DD>
+                <dt>DO</dt>
+                <dd>El camino que ha de segir, compromiso personal</dd>
+                <td>
+                    <img scr="imagen6.1.jpg"
+                    width="400" height="200"
+                    alt="Alt Text" />
+                </td>
+            </dl>
+        </TD>
+    </tr>
+</table>
+</html>
